@@ -1,6 +1,8 @@
 The code and simulated data are for the purpose of replicating the main results in the paper:
 
-Yao, Dai and Tang, Chuang and Chu, Junhong, A Dynamic Model of Owner Acceptance in Peer-to-Peer Sharing Markets (March 8, 2022). Marketing Science, Forthcoming, Available at SSRN: [https://ssrn.com/abstract=4052540](https://ssrn.com/abstract=4052540).
+Yao, Dai and Tang, Chuang and Chu, Junhong, A Dynamic Model of Owner Acceptance in Peer-to-Peer Sharing Markets (March 8, 2022). *Marketing Science*, Forthcoming, Available at SSRN: [https://ssrn.com/abstract=4052540](https://ssrn.com/abstract=4052540).
+
+Feel free to contact Dai via [email](mailto:dai@yaod.ai), or visit [http://wwww.yaod.ai](http://wwww.yaod.ai) for more contact information.
 
 Due to a non-disclore agreement with the platform, we cannot make the data public. Hence, we share the implementation of the estimation algorithm in Matlab, as well as the simulation data and estimation results on the simulated data reported in Table A10 and A11. Interested users could easily simulate any data under other values of the parameters in the model than the two sets of values we used in the paper, and estimate different models (myopic owners only, forward-looking owners only, mixture of owners) with the code. Extensive comments were provided inside all the code files to facilitate understanding and execution of the code files.
 
