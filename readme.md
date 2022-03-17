@@ -39,3 +39,5 @@ notes: (1) the two files are exactly the same except lines 30-31 where the utili
 * data-results-diff-paras/ - this folder has the same structure as the one above.
 
 
+**Please see the paper for more details on the model. If you use these codes files or data, please CITE this paper as the source.**
+
